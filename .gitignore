@@ -4,6 +4,7 @@
 # But not these files...
 !.gitignore
 !libs/
-
+!test/
 # Also include all files in the docs folder
 !libs/**
+!test/**
